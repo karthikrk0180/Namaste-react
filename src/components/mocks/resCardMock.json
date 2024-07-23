@@ -1,0 +1,17 @@
+{
+    "info": {
+        "cloudinaryImageId": "ntjshqsv2k7vxtv7vmib",
+        "name": "La Pino'z Pizza",
+        "avgRating": 4.3,
+        "cuisines": [
+            "Pizzas",
+            "Pastas",
+            "Italian",
+            "Desserts",
+            "Beverages"
+        ],
+        "sla": {
+            "deliveryTime": 28
+        }
+    }
+}

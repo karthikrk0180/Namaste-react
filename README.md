@@ -1,5 +1,9 @@
 # Namaste React 
 
+# Make Sure to install CORS Extension for Swiggy API to function.
+
+
+
 # React is fast because of lot of other packages such as parcel which does a lot of things in backend
 
 
